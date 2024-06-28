@@ -86,6 +86,7 @@
                 Foreground="Black"
                 Background="#D3D3D3"
                 HorizontalContentAlignment="Center"
+                Height="36"
                 Margin="10" />
         <Button x:Name="MultiThreadingButton"
                 Style="{StaticResource SpecialButtonStyle}"
@@ -94,6 +95,7 @@
                 Foreground="Black"
                 Background="#D3D3D3"
                 HorizontalContentAlignment="Center"
+                Height="36"
                 Margin="10" />
         <Button x:Name="DeleteGraphButton"
                 Style="{StaticResource SpecialButtonStyle}"
@@ -102,6 +104,7 @@
                 Foreground="Black"
                 Background="#D3D3D3"
                 HorizontalContentAlignment="Center"
+                Height="36"
                 Margin="10" />
       </StackPanel>
 
@@ -117,7 +120,7 @@
                                x:Name="RightGraphCanvas"
                                VerticalAlignment="Center"
                                HorizontalAlignment="Center"
-                               Margin="500, 0,0,100"
+                               Margin="500,0,0,100"
                                Height="600" />
 
       <!-- Separator -->
