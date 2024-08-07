@@ -17,8 +17,8 @@ Funktionen:
   - Daten löschen
 #
 Screenshot:
-![image](https://github.com/stefanMair00/Cross-Plattform-Applikation/assets/147051350/406c7972-a1c5-4056-80f2-401f5db3fb55)
-#
+![2024-08-07_10h54_35](https://github.com/user-attachments/assets/fe3fb80a-b49d-475f-8372-dbe7a6c45930)
+
 Projekteinstellungen:
 - Uno Platform
 - Framework: .NET 8.0 (Long Term Support)
