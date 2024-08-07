@@ -8,6 +8,7 @@ using Microsoft.UI.Xaml.Shapes;
 using Windows.Foundation;
 using CrossPlatformApplicationUnoPlatform;
 using Microsoft.UI.Dispatching;
+using Windows.UI.ViewManagement;
 
 namespace CrossPlatformApplicationUnoPlatform;
 
